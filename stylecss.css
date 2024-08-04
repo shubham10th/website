@@ -1,0 +1,71 @@
+#navbar{  font-style: #000;
+
+    height: 40px;
+    padding: end 90px;
+    color: rgb(0, 0, 0);
+    text-align:end;}
+    .border{border: 2px solid transparent;}
+.border :hover { border: 2px solid white
+   
+    
+
+}
+.border{border: 2px solid transparent;}
+.border :hover { border: 2px solid white
+   
+}
+body{
+    background-color:gainsboro;
+
+}
+a{
+    color: rgb(5, 1, 1);   
+}
+a{ margin: 20px;;
+    font-size: 20px;
+   
+}
+footer{padding-bottom: 2cm;
+    padding-top: 2cm;
+    padding-left: 2cm;
+    
+}
+body{
+    background-color:gainsboro;
+
+}
+a{
+    color: rgb(0, 0, 0);   
+}
+a{ margin: 20px;;
+    font-size: 20px;}
+    p{text-align: center;}
+h2{ 
+    color: blue;
+}
+
+p{text-align: start;}
+.om{ text-align: center;}
+
+    
+    
+
+    #Admission{background-color: rgb(255, 255, 255);
+        width: 4cm;
+        text-align: center;
+
+    }
+    
+#Admission{  font-style: #000;
+    width: 1000px;
+    height: 40px;
+    padding: end 90px;
+    padding-right: 0cm;
+    color: rgb(0, 0, 0);
+    text-align:end;
+    border-radius: 5px;
+    
+}
+a{ text-decoration: none;}
+a:hover{ color: rgb(255, 0, 221);
+    background-color: chartreuse;}
